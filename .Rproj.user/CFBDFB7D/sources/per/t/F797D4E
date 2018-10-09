@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1969179745",
+    "hash" : "3530009712",
     "id" : "F797D4E",
-    "lastKnownWriteTime" : 1539115022,
-    "last_content_update" : 1539115346508,
-    "path" : "//Wasp/Profiles$/Folder Redirection/knewton/Desktop/humanities/01-humanities-analysis.Rmd",
+    "lastKnownWriteTime" : 1539120341,
+    "last_content_update" : 1539120290896,
+    "path" : "~/R projects/humanities/01-humanities-analysis.Rmd",
     "project_path" : "01-humanities-analysis.Rmd",
     "properties" : {
-        "cursorPosition" : "18,21",
-        "scrollLine" : "16"
+        "cursorPosition" : "6,12",
+        "scrollLine" : "0"
     },
     "relative_order" : 1,
     "source_on_save" : false,

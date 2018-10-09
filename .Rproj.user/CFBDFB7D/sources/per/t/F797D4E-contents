@@ -3,9 +3,8 @@ title: "Humanities enrolments in NZ, 2008-2017"
 author: "Kate Newton"
 date: "9 October 2018"
 output: 
-  html_document:
+  html_document: 
     toc: yes
-    toc_float: yes
 ---
 
 ## Load libraries and data
